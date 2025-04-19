@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/meemo/Documents/langs/labs/image-rotation/build/solution",
+  "command": "/sbin/clang  -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/src -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o CMakeFiles/image-transform.dir/src/image.c.o -c /home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/src/image.c",
+  "file": "/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/src/image.c",
+  "output": "solution/CMakeFiles/image-transform.dir/src/image.c.o"
+},
+{
+  "directory": "/home/meemo/Documents/langs/labs/image-rotation/build/solution",
+  "command": "/sbin/clang  -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/src -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o CMakeFiles/image-transform.dir/src/io.c.o -c /home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/src/io.c",
+  "file": "/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/src/io.c",
+  "output": "solution/CMakeFiles/image-transform.dir/src/io.c.o"
+},
+{
+  "directory": "/home/meemo/Documents/langs/labs/image-rotation/build/solution",
+  "command": "/sbin/clang  -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/src -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o CMakeFiles/image-transform.dir/src/main.c.o -c /home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/src/main.c",
+  "file": "/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/src/main.c",
+  "output": "solution/CMakeFiles/image-transform.dir/src/main.c.o"
+},
+{
+  "directory": "/home/meemo/Documents/langs/labs/image-rotation/build/solution",
+  "command": "/sbin/clang  -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/src -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o CMakeFiles/image-transform.dir/src/transformations.c.o -c /home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/src/transformations.c",
+  "file": "/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/solution/src/transformations.c",
+  "output": "solution/CMakeFiles/image-transform.dir/src/transformations.c.o"
+},
+{
+  "directory": "/home/meemo/Documents/langs/labs/image-rotation/build/tester",
+  "command": "/sbin/clang  -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/src -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o CMakeFiles/image-matcher.dir/src/bmp.c.o -c /home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/src/bmp.c",
+  "file": "/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/src/bmp.c",
+  "output": "tester/CMakeFiles/image-matcher.dir/src/bmp.c.o"
+},
+{
+  "directory": "/home/meemo/Documents/langs/labs/image-rotation/build/tester",
+  "command": "/sbin/clang  -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/src -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o CMakeFiles/image-matcher.dir/src/file_cmp.c.o -c /home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/src/file_cmp.c",
+  "file": "/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/src/file_cmp.c",
+  "output": "tester/CMakeFiles/image-matcher.dir/src/file_cmp.c.o"
+},
+{
+  "directory": "/home/meemo/Documents/langs/labs/image-rotation/build/tester",
+  "command": "/sbin/clang  -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/src -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o CMakeFiles/image-matcher.dir/src/main.c.o -c /home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/src/main.c",
+  "file": "/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/src/main.c",
+  "output": "tester/CMakeFiles/image-matcher.dir/src/main.c.o"
+},
+{
+  "directory": "/home/meemo/Documents/langs/labs/image-rotation/build/tester",
+  "command": "/sbin/clang  -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/src -I/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o CMakeFiles/image-matcher.dir/src/util.c.o -c /home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/src/util.c",
+  "file": "/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/src/util.c",
+  "output": "tester/CMakeFiles/image-matcher.dir/src/util.c.o"
+}
+]

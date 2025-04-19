@@ -1,0 +1,18 @@
+Start testing: Nov 28 13:04 MSK
+----------------------------------------------------------
+9/9 Testing: test-9
+9/9 Test: test-9
+Command: "/usr/bin/cmake" "-DTEST_DIR=/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/tests/9" "-DIMAGE_TRANSFORM=/home/meemo/Documents/langs/labs/image-rotation/build/solution/image-transform" "-DIMAGE_MATCHER=/home/meemo/Documents/langs/labs/image-rotation/build/tester/image-matcher" "-P" "/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/tester.cmake"
+Directory: /home/meemo/Documents/langs/labs/image-rotation/build/tester
+"test-9" start time: Nov 28 13:04 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test-9" end time: Nov 28 13:04 MSK
+"test-9" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 28 13:04 MSK

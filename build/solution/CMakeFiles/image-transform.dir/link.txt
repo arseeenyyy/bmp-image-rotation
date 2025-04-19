@@ -1,0 +1,1 @@
+/sbin/clang -std=c17 -pedantic -Wall -Werror -ggdb -g -Xlinker --dependency-file=CMakeFiles/image-transform.dir/link.d "CMakeFiles/image-transform.dir/src/image.c.o" "CMakeFiles/image-transform.dir/src/io.c.o" "CMakeFiles/image-transform.dir/src/main.c.o" "CMakeFiles/image-transform.dir/src/transformations.c.o" -o image-transform

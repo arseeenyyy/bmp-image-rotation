@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20241127-1851-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.31.0"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="devpc"
+	OSRelease="6.11.9-arch1-1"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Sun, 17 Nov 2024 16:06:17 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="80"
+	ModelName="AMD Ryzen 7 5800H with Radeon Graphics"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="17407"
+	TotalPhysicalMemory="15338"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3315.97"
+	>
+	<Testing>
+		<StartDateTime>Nov 27 22:50 MSK</StartDateTime>
+		<StartTestTime>1732737000</StartTestTime>
+		<TestList>
+			<Test>./tester/test-9</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test-9</Name>
+			<Path>./tester</Path>
+			<FullName>./tester/test-9</FullName>
+			<FullCommandLine>/usr/bin/cmake "-DTEST_DIR=/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/tests/9" "-DIMAGE_TRANSFORM=/home/meemo/Documents/langs/labs/image-rotation/build/solution/image-transform" "-DIMAGE_MATCHER=/home/meemo/Documents/langs/labs/image-rotation/build/tester/image-matcher" "-P" "/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/tester.cmake"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0107738</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/usr/bin/cmake "-DTEST_DIR=/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/tests/9" "-DIMAGE_TRANSFORM=/home/meemo/Documents/langs/labs/image-rotation/build/solution/image-transform" "-DIMAGE_MATCHER=/home/meemo/Documents/langs/labs/image-rotation/build/tester/image-matcher" "-P" "/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform/tester/tester.cmake"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 27 22:50 MSK</EndDateTime>
+		<EndTestTime>1732737000</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

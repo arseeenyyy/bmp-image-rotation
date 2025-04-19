@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "/home/meemo/Documents/langs/labs/image-rotation/assignment-3-image-transform",
+    "files.associations": {
+        "stdint.h": "c",
+        "image.h": "c"
+    }
+}

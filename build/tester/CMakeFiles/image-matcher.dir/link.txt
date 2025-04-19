@@ -1,0 +1,1 @@
+/sbin/clang -std=c17 -pedantic -Wall -Werror -ggdb -g -Xlinker --dependency-file=CMakeFiles/image-matcher.dir/link.d "CMakeFiles/image-matcher.dir/src/bmp.c.o" "CMakeFiles/image-matcher.dir/src/file_cmp.c.o" "CMakeFiles/image-matcher.dir/src/main.c.o" "CMakeFiles/image-matcher.dir/src/util.c.o" -o image-matcher
